@@ -1,6 +1,6 @@
 {
-  "name": "Neural Grid Tic Tac Toe",
-  "short_name": "NeuralGrid",
+  "name": "KY Grid",
+  "short_name": "KYGrid",
   "description": "A cyberpunk themed Tic Tac Toe game with advanced VFX",
   "id": "/",
   "start_url": "code.html",
