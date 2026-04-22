@@ -1,33 +1,20 @@
 {
-  "name": "KY Grid",
-  "short_name": "KYGrid",
+  "background_color": "#2e2eff",
   "description": "A cyberpunk themed Tic Tac Toe game with advanced VFX",
-  "id": "/",
-  "start_url": "code.html",
-  "display": "standalone",
-  "background_color": "#0e0e14",
-  "theme_color": "#81ecff",
-  "orientation": "portrait",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "KY Grid",
+  "orientation": "any",
   "scope": "./",
+  "short_name": "KYGrid",
+  "start_url": "code.html",
+  "theme_color": "#d1f0ff",
   "categories": [
-    "games",
-    "utilities"
+    "games"
   ],
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "screen.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Cyberpunk Neural Grid Gameplay"
-    }
+  "id": "Neural grid Tic Tac Toe",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay"
   ]
 }
