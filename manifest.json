@@ -1,20 +1,15 @@
 {
-  "background_color": "#2e2eff",
-  "description": "A cyberpunk themed Tic Tac Toe game with advanced VFX",
-  "dir": "ltr",
+  "background_color": "#dbf3ff",
+  "description": "xo Game",
+  "dir": "auto",
   "display": "fullscreen",
-  "name": "KY Grid",
+  "name": "X-O",
   "orientation": "any",
-  "scope": "./",
-  "short_name": "KYGrid",
+  "scope": "/",
+  "short_name": "X-O",
   "start_url": "code.html",
-  "theme_color": "#d1f0ff",
-  "categories": [
-    "games"
-  ],
-  "id": "Neural grid Tic Tac Toe",
-  "lang": "en",
-  "display_override": [
-    "window-controls-overlay"
-  ]
+  "theme_color": "#d1d3ff",
+  "iarc_rating_id": "KY Grid",
+  "prefer_related_applications": true,
+  "id": "KY Grid"
 }
