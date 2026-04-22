@@ -1,15 +1,13 @@
 {
-  "background_color": "#dbf3ff",
-  "description": "xo Game",
-  "dir": "auto",
-  "display": "fullscreen",
-  "name": "X-O",
+  "background_color": "#e0f7ff",
+  "description": "TICTAKO-KY",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TICTAKO-KY",
   "orientation": "any",
   "scope": "/",
-  "short_name": "X-O",
-  "start_url": "code.html",
-  "theme_color": "#d1d3ff",
-  "iarc_rating_id": "KY Grid",
-  "prefer_related_applications": true,
+  "short_name": "TICTAKO-KY",
+  "start_url": "/",
+  "theme_color": "#cce7ff",
   "id": "KY Grid"
 }
